@@ -1,0 +1,23 @@
+.chat-container{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(120deg, #1a1a1a 0%, #4a4a4a 100%);
+    height: 400px;
+    width: 500px;
+    border-radius: 5px;
+}
+
+.message-container{
+    width: 90%;
+    height: 70%;
+    background-color: #c1c1c1;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.input{
+    width:250px;
+   
+}
